@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.containerkid{
+  border-radius: 50%;
+  
+}
+
+
+.card{
+   
+    text-align: center;
+    
+}
+
+.row{
+    border-radius: 40%;
+}
+h1{
+    font-weight: 50;
+}
+.navbar-collapse{
+    word-spacing: 20px;
+    padding: 15px;
+    margin-left: 40px;
+   
+}
+.navbarNavDropdown{
+    word-spacing: 20px;
+}
+.nav-item{
+    margin-left: 130%;
+    margin-right: 50px;
+}
+.nav-item2{
+    margin-right: 50px;
+}
+.nav-item3{
+    margin-right: 50px;
+}
+.nav-item4{
+    margin-right: 50px;
+}
+.nav-item5{
+    margin-right: 0;
+}
+
+.containerkid .card{
+    border-radius: 40%;
+    color: #111;
+    background-color: #f6f0f0;
+}
+.containerkid .card img{
+    border-radius: 40%;
+}

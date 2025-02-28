@@ -1,0 +1,32 @@
+#top {
+    background-color:#2D336B;
+    color: white;
+    text-align: center;
+    margin: 0px;
+   
+}
+.BALA{
+    background-color:#FFEFC8;
+}
+.order-summary {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 4%;
+    background-color:#f0ca69;
+    margin-top: 18px;
+    color: rgb(7, 7, 7);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    background-color:#d17d30 ;
+    margin-top: 27px;
+    color: black;
+    
+    
+    
+}
+
+.orderdetail {}

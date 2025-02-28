@@ -1,0 +1,54 @@
+<h1 id="top">Order Summary</h1>
+<div class="d-flex flex-row justify-content-center BALA">
+    <div class="order-summary  ">
+
+        <h1 >Customer Information</h1>
+        <form class="customer-info p-3">
+            <input type="text" placeholder="Full Name" required>
+            <input type="email" placeholder="Email Address" required>
+            <input type="tel" placeholder="Phone Number" required><br>
+            <input type="text" placeholder="Street Address" required>
+            <input type="text" placeholder="City" required>
+            <input type="text" placeholder="State/Province" required><br>
+            <input type="text" placeholder="Zip/Postal Code" required>
+            <input type="text" placeholder="Country" required>
+            <label>
+                <input type="checkbox"> Use this address for billing
+            </label>
+        </form>
+
+        <h1>Shipping Method</h1>
+        <div class="shipping-method">
+            <label><input type="radio" name="shipping" value="standard" checked> Standard Shipping ($5.00)</label>
+            <label><input type="radio" name="shipping" value="express"> Express Shipping ($10.00)</label>
+        </div>
+
+        <h1>Payment Information</h1>
+        <form class="payment-info">
+            <input type="text" placeholder="Card Number" required>
+            <input type="text" placeholder="Expiration Date (MM/YY)" required>
+            <input type="text" placeholder="CVV" required><br>
+            <input type="text" placeholder="Name on Card" required>
+            <label>
+                <input type="checkbox"> Save this card for future purchases
+            </label>
+        </form>
+
+        <div class="order-review">
+            <h1>Review Your Order</h1>
+            <p>Subtotal: $35.00</p>
+            <p>Shipping: $5.00</p>
+            <h3>Total: $40.00</h3>
+            <input type="text" placeholder="Promo Code">
+            <button>Apply</button>
+        </div>
+
+        <button class="complete-order">Complete Order</button>
+        <div class="mt-4 text-center">
+            <p>&copy; 2023 MyShop. All rights reserved.</p>
+            <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a> | <a href="#">Return Policy</a></p>
+        </div>
+    </div>
+
+
+</div>

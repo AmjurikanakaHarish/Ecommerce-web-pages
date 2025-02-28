@@ -1,0 +1,19 @@
+.container {
+    padding-top: 50px;
+}
+
+.card {
+    padding: 20px;
+    margin: 0px 20px;
+    border: none;
+    box-shadow: 0.5px 0.5px 5px #b8b7b7;
+    text-align: center;
+}
+
+.order {
+    background-color: black ;
+    max-width: 60%;
+    margin: 5% 20%;
+    border-radius: 10px;
+    color: white;
+}

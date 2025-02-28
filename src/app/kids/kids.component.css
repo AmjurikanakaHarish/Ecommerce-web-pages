@@ -1,0 +1,74 @@
+.bala{
+    background-image: url("https://images.pexels.com/photos/268415/pexels-photo-268415.jpeg?auto=compress&cs=tinysrgb&w=600");
+    object-fit: contain;
+    background-size: cover;
+}
+
+.kid {
+    border-radius: 50%;
+    margin-top: 0;
+    margin: 50px;
+}
+
+
+.card {
+    border-radius: 10%;
+    text-align: center;
+
+}
+
+.row {
+    border-radius: 40%;
+}
+
+h1 {
+    font-weight: 50;
+}
+
+.navbar {
+    background-color: rgb(20, 16, 103);
+    padding: 10px;
+    
+
+}
+#navtool{
+    
+    border-radius: 70%;
+
+}
+
+.navbarNavDropdown {
+    word-spacing: 20px;
+}
+
+.nav-item {
+    margin-left: 130%;
+    margin-right: 50px;
+}
+
+.nav-item2 {
+    margin-right: 50px;
+}
+
+.nav-item3 {
+    margin-right: 50px;
+}
+
+.nav-item4 {
+    margin-right: 50px;
+}
+
+.nav-item5 {
+    margin-right: 0;
+}
+
+.kid .card {
+
+    margin: 20px;
+    color: #111;
+    background-color: #f6f0f0;
+}
+h1{
+    font-family:"Lobster";
+}
+
